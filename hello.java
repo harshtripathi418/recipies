@@ -1,4 +1,8 @@
-Public class hello{
-  Public static void main(Strings args[] ){
-    System.out.println("Hello world");
-}
+<html>
+  <head>
+  <title>Hello</title>
+  </head>
+  <body>
+  <h1>Hello world</h1>
+  </body>
+  </html>
